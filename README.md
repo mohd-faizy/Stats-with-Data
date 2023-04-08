@@ -61,7 +61,7 @@ Some useful resources for statistics in data science:
 
 ## Statistics Map
 
-![statistics](https://github.com/mohd-faizy/Stats-with-Data/blob/main/_jpg/STATISTICS.png)
+![statistics](https://github.com/mohd-faizy/Stats-with-Data/blob/main/_jpg/STATISTICS.jpg)
 
 ### Contributing
 
