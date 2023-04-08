@@ -1,5 +1,16 @@
 # Statistics for Data Science
 
+![Author](https://img.shields.io/badge/author-faizy-red)
+![License](https://img.shields.io/badge/license-MIT-brightgreen)
+![Platform](https://img.shields.io/badge/platform-Visual%20Studio%20Code-blue)
+![Maintained](https://img.shields.io/maintenance/yes/2023)
+![Last Commit](https://img.shields.io/github/last-commit/mohd-faizy/Stats-with-Data)
+![Issues](https://img.shields.io/github/issues/mohd-faizy/Stats-with-Data)
+![Stars GitHub](https://img.shields.io/github/stars/mohd-faizy/Stats-with-Data)
+![Language](https://img.shields.io/github/languages/top/mohd-faizy/Stats-with-Data)
+![Size](https://img.shields.io/github/repo-size/mohd-faizy/Stats-with-Data)
+
+
 Welcome to the *Statistics for Data Science* repository! This repository aims to provide a comprehensive collection of resources, ipynb-tuts, and examples related to statistical techniques and their application in data science. Whether you are a beginner or an experienced data scientist, you'll find valuable content to enhance your understanding of statistics and their role in data-driven decision making.
 
 ## Contents
