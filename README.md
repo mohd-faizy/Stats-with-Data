@@ -57,6 +57,16 @@ Welcome to the *Statistics for Data Science* repository! This repository aims to
   - `Pair Plots`
   - `Correlation Heatmaps`
 
+### Hypothesis Testing 
+
+<p align='center'>
+  <a href="#"><img src='https://github.com/mohd-faizy/Stats-with-Data/blob/main/_jpg/HT1.png?raw=true' width=75%></a>
+</p>
+
+<p align='center'>
+  <a href="#"><img src='https://github.com/mohd-faizy/Stats-with-Data/blob/main/_jpg/HT2.png?raw=true' width=100%></a>
+</p>
+
 ## Resources
 
 Some useful resources for statistics in data science:
