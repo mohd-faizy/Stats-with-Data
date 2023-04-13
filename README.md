@@ -1,7 +1,7 @@
 # Statistics for Data Science
 
 ![Author](https://img.shields.io/badge/author-faizy-red)
-![License](https://img.shields.io/badge/license-MIT-brightgreen)
+[![GitHub license](https://img.shields.io/github/license/mohd-faizy/Stats-with-Data)](https://github.com/mohd-faizy/Stats-with-Data/blob/main/LICENSE)
 ![Platform](https://img.shields.io/badge/platform-Visual%20Studio%20Code-blue)
 ![Maintained](https://img.shields.io/maintenance/yes/2023)
 ![Last Commit](https://img.shields.io/github/last-commit/mohd-faizy/Stats-with-Data)
