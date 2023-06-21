@@ -13,6 +13,10 @@
 
 Welcome to the *Statistics for Data Science* repository! This repository aims to provide a comprehensive collection of resources, ipynb-tuts, and examples related to statistical techniques and their application in data science. Whether you are a beginner or an experienced data scientist, you'll find valuable content to enhance your understanding of statistics and their role in data-driven decision making.
 
+<p align='center'>
+  <a href="#"><img src='/_jpg/banner.png'></a>
+</p>
+
 ## Contents
 
 - **Descriptive Statistics**
